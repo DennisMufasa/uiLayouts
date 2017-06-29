@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bui_Reloaded</string>
+    <string name="txtHeading">Software Development</string>
+    <string name="imgLogo">imgLogo</string>
+    <string name="labelAndroid">Android</string>
+    <string name="labelIOS">IOS</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="infoAndroid">
+        This is a four-week training course where learners are taught the basics of Android mobile application
+         development on the Android Studio development IDE. By the end of this course students will
+       develop android platform apps.
+    </string>
+
+    <string name="infoIOS">
+        This is a four-week training course where learners are taught the basics of IOS mobile application
+         development on the IOS Studio development IDE. By the end of this course students will
+       develop IOS platform apps.
+    </string>
+
+    <string name="label">SIGN UP FOR FREE</string>
+
+</resources>
